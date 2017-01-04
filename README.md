@@ -10,3 +10,5 @@
 # Hadoop & Spark
 # Object Oriented Programming
 # Deep Learning
+# Test Bidding Algorithm 
+# Multi-touch model
