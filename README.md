@@ -12,3 +12,4 @@
 # Deep Learning
 # Test Bidding Algorithm 
 # Multi-touch model
+# Structure Equation Model
