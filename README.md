@@ -3,6 +3,8 @@
 ## Kaggle Practice 
     Regression: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
     
+## Feb: Ensemble, Bagging and Boosting; Classification
+
 # Start to learn Recommendation System
 # Bayesian Theorm 
 # Python 3 (Advanced)
