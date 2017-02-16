@@ -4,6 +4,7 @@
     Regression: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
     
 ## Feb: Ensemble, Bagging and Boosting; Classification
+    2.15: checked basic difference between ensemble, bagging and boosting; 
 
 # Start to learn Recommendation System
 # Bayesian Theorm 
