@@ -3,6 +3,7 @@
 ## Kaggle Practice 
     Regression: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
     2.23: Home Depot Product Search Relevance
+    3.13: Tree Modeling
     
 ## Feb: Ensemble, Bagging and Boosting; Classification
     2.15: checked basic difference between ensemble, bagging and boosting; 
