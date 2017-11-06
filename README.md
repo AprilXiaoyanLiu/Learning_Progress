@@ -1,4 +1,6 @@
 # 2017 Sechedule
+# Project Based
+    11.5: Organize the code for search query theme idenitify project. This project leveraged LDA and NMF model and random forest classifer to identify the search query topic.  
 # Review Machine Learning Regression/Classification/Clustering & Document Retrieval
 ## Kaggle Practice 
     Regression: https://www.kaggle.com/c/house-prices-advanced-regression-techniques
