@@ -14,6 +14,7 @@
 # Python 3 (Advanced)
 # R 
 # Hadoop & Spark
+    11.5: Read AWS guide. Learn Hive Essentials. TODO: Test how to load data from S3 to hive and how to ouput hive table to S3
 # Object Oriented Programming
 # Deep Learning
 # Test Bidding Algorithm 
