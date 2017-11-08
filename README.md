@@ -16,7 +16,7 @@
 # Python 3 (Advanced)
 # R 
 # Hadoop & Spark
-    11.5: Read AWS guide. Learn Hive Essentials. TODO: Test how to load data from S3 to hive and how to ouput hive table to S3 11.6: successfully load data from S3 to hive and output hive table to S3
+    11.5: Read AWS guide. Learn Hive Essentials. TODO: Test how to load data from S3 to hive and how to ouput hive table to S3     11.6: successfully load data from S3 to hive and output hive table to S3
     11.7: Update Hive query. WHEN CREATE TABLES HAVE DO NOT CONTAINS ()! 
 # Object Oriented Programming
     11.6: revisit object oriented programming
