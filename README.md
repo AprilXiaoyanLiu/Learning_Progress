@@ -9,6 +9,7 @@
     
 ## Feb: Ensemble, Bagging and Boosting; Classification
     2.15: checked basic difference between ensemble, bagging and boosting; 
+    11.15: train unbalanced classification model
 
 # Start to learn Recommendation System
 # Bayesian Theorm 
