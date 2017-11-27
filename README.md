@@ -15,6 +15,8 @@
 # Start to learn Recommendation System
 # Bayesian Theorm 
     2.22: continued coursera Bayesian 
+# Data Structure & Algorithm 
+    11.24 - 11.25: recursion, explore maze
 # Python 3 (Advanced)
 # R 
 # Hadoop & Spark
