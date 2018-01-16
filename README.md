@@ -1,4 +1,14 @@
-# 2017 Sechedule
+# 2018 Plan
+
+## Learning 
+
+## Books
+     
+
+## Online Courses
+
+
+# 2017 Schedule
 # Project Based
     11.5: Organize Python code for search query theme idenitify project. This project leveraged LDA and NMF model and random forest classifer to identify the search query topic.  
 # Review Machine Learning Regression/Classification/Clustering & Document Retrieval
