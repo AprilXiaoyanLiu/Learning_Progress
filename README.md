@@ -9,6 +9,7 @@
     The elements of statistical learning
     
     Grokking Algorithms
+    Elements of programming interviews in Python
     
     Causal inference in statistics
     
