@@ -2,11 +2,32 @@
 
 ## Learning 
 
+
 ## Books
+    ML: 
+    Real word machine learning
+    The elements of statistical learning
+    
+    Grokking Algorithms
+    
+    Causal inference in statistics
+    
+
      
 
 ## Online Courses
-
+    Udemy: Complete guide to tensorflow for deep learning in Python
+    Coursera: Deep Learning Andrew Eng
+    
+    Udemy: The ultimate hands-on Hadoop
+    Udemy: Taming big data with Apache Spark and Python
+    
+    Coursera: A crash course of causality
+    
+## Practice
+    Coding & Algorithm: Leetcode/Lintcode
+    Kaggle
+    
 
 # 2017 Schedule
 # Project Based
