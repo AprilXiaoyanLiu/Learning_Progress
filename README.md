@@ -18,6 +18,7 @@
 ## Online Courses
     Udemy: Complete guide to tensorflow for deep learning in Python
     Coursera: Deep Learning Andrew Eng
+    Udacity: intro to artifical intelligence
     
     Udemy: The ultimate hands-on Hadoop
     Udemy: Taming big data with Apache Spark and Python
