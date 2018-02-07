@@ -28,6 +28,7 @@
     
 ## Practice
     Coding & Algorithm: Leetcode/Lintcode
+        2.6: review Linked List basic questions
     Kaggle
     
 
