@@ -13,11 +13,14 @@
     
     Causal inference in statistics
     
+    
+    
 
      
 
 ## Online Courses
     Udemy: Complete guide to tensorflow for deep learning in Python
+        2.8: learn basic theory of deep learning, activation function, cost function and etc. 
     Coursera: Deep Learning Andrew Eng
     Udacity: intro to artifical intelligence
     
@@ -29,6 +32,11 @@
 ## Practice
     Coding & Algorithm: Leetcode/Lintcode
         2.6: review Linked List basic questions
+        2.8: linked list again - review reference variable 
+    
+    OOP
+        2.8 global variable?
+    
     Kaggle
     
 
