@@ -12,6 +12,7 @@
     Elements of programming interviews in Python
     
     Causal inference in statistics
+    Multi-armed bandit
     
     Mining Massive Datasets
     
@@ -29,6 +30,7 @@
     Udemy: The ultimate hands-on Hadoop
     Udemy: Taming big data with Apache Spark and Python
     Stanford: Mining Massive Datasets
+   
     
     Coursera: A crash course of causality
     
