@@ -38,6 +38,7 @@
     Coding & Algorithm: Leetcode/Lintcode
         2.6: review Linked List basic questions
         2.8: linked list again - review reference variable 
+        2.20: merge two sorted lists
     
     OOP
         2.8 global variable?
