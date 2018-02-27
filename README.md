@@ -39,6 +39,7 @@
         2.6: review Linked List basic questions
         2.8: linked list again - review reference variable 
         2.20: merge two sorted lists
+        2.26: review binary tree 
     
     OOP
         2.8 global variable?
