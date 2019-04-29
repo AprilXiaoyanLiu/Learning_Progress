@@ -2,7 +2,7 @@
 ## Learning
 Jan - April: Reinforcement Learning (done)
 
-May - June: CS224N (Stanford) ongoing
+May - June: CS224N - NLP with Deep Learning (Stanford) ongoing
 
 
 # 2018 Plan
