@@ -1,4 +1,4 @@
-#2019 Plan
+# 2019 Plan
 ## Learning
 Jan - April: Reinforcement Learning (done)
 
