@@ -1,6 +1,7 @@
 #2019 Plan
 ## Learning
 Jan - April: Reinforcement Learning (done)
+
 May - June: CS224N (Stanford) ongoing
 
 
